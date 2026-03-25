@@ -35,4 +35,4 @@ O projeto cumpre 100% dos requisitos solicitados:
 1. **Clone o repositório ou baixe a pasta:**
    ```bash
    # Se estiver usando Git
-   git clone [URL_DO_SEU_REPOSITORIO]
+   git clone https://github.com/Guilhermedev2807/CP1Mobile.git
